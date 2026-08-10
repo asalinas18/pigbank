@@ -2,5 +2,5 @@
   "version": "1.1.1",
   "build": 3,
   "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.1.1/pigbank.apk",
-  "notes": "â€¢ Prueba del sistema de actualizaciÃ³n dentro de la app\nâ€¢ Presupuestos con historial mensual\nâ€¢ Notificaciones con separador de miles"
+  "notes": "• Prueba del sistema de actualización dentro de la app\n• Presupuestos con historial mensual\n• Notificaciones con separador de miles"
 }
