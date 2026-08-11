@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "build": 3,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.1.1/pigbank.apk",
-  "notes": "• Prueba del sistema de actualización dentro de la app\n• Presupuestos con historial mensual\n• Notificaciones con separador de miles"
+  "version": "1.2.0",
+  "build": 4,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.2.0/pigbank.apk",
+  "notes": "Rediseño v2:\n• Patrimonio con fondo aurora y números más grandes\n• Anillos de presupuesto en el inicio (ocultables)\n• Marca del chanchito en el encabezado y botón +\n• Formulario: selector deslizante y monto renovado\n• Plantillas rediseñadas"
 }
