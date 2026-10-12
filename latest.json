@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "build": 6,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.2.2/pigbank.apk",
-  "notes": "⚠️ ANTES DE ACTUALIZAR: esta versión requiere reinstalar la app.\n1. Configuración → Crear respaldo completo y guardá el archivo.\n2. Desinstalá PigBank.\n3. Instalá la nueva versión.\n4. Configuración → Restaurar respaldo.\nEl PIN se vuelve a configurar. Desde esta versión las actualizaciones vuelven a ser automáticas."
+  "version": "1.2.3",
+  "build": 7,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.2.3/pigbank.apk",
+  "notes": "Nuevo diseño de PigBank ✨\n• Inicio renovado: deslizá la tarjeta para ver cada cuenta\n• Buscador y filtros (tipo, período, categorías)\n• Días plegables en la lista de movimientos\n• Detalle de movimiento en pantalla completa\n• Configuración nueva con color de la app a elección\n• Colores e íconos unificados, mejor modo claro\n• Logo y animación de apertura nuevos\n• Se corrigió la alerta de presupuesto que contaba doble\n\nTus datos se mantienen: se instala encima."
 }
