@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
-  "build": 8,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.2.4/pigbank.apk",
-  "notes": "Mejoras de diseño ✨\n• Animación más fluida al deslizar entre cuentas en el inicio\n• El fondo de la tarjeta se funde entre los colores de cada cuenta\n\nTus datos se mantienen: se instala encima."
+  "version": "1.3.0",
+  "build": 9,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.3.0/pigbank.apk",
+  "notes": "Novedades ✨\n• Cuentas en dólares, euros u otra moneda, con tipo de cambio automático o manual\n• Barra de navegación abajo: Inicio, Cuentas, Estadísticas y Más\n• Registro de movimientos renovado, con la hora real (y opción de cambiarla)\n• Movimientos de la misma categoría en un día se agrupan con su total\n• Colores libres para cuentas, categorías y el color de la app\n• Estadísticas configurables, sol/luna para cambiar de tema y mejor modo claro\n\nTus datos se mantienen: se instala encima."
 }
