@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "build": 11,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.4.1/pigbank.apk",
-  "notes": "Novedades ✨\n• Calendario con tus ingresos, gastos y transferencias (y el neto de cada día)\n• Notas renovadas: listas con progreso, accesos con generador de contraseñas y más colores\n• Lugares: con fotos, estrellas, dirección y link de Google Maps\n• Compartir notas con un toque\n\nTus datos se mantienen: se instala encima."
+  "version": "1.4.2",
+  "build": 12,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.4.2/pigbank.apk",
+  "notes": "Novedades ✨\n• Respaldo completo de verdad: ahora incluye las fotos (comprobantes y lugares) y los tipos de cambio, y al restaurar se reprograman los recordatorios y avisos\n• Configuración muestra cuándo hiciste el último respaldo\n• Guía de la app actualizada con todas las funciones nuevas\n• Política de privacidad actualizada\n\nTus datos se mantienen: se instala encima."
 }
