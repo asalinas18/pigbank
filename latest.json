@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "build": 10,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.4.0/pigbank.apk",
-  "notes": "Novedades ✨\n• Nueva barra de abajo con el chanchito para registrar desde cualquier pantalla\n• Calendario financiero: cuotas, gastos fijos, tarjetas, recordatorios y metas día por día\n• Metas: abonar o retirar desde una cuenta, historial de aportes y aporte mensual automático\n• Presupuestos: total del mes, pasar el sobrante (opcional), avisos configurables y ver sus gastos\n• Cuotas, Gastos fijos y Recordatorios renovados, con avisos antes de cada vencimiento\n• Centro de notificaciones en Configuración\n• Notas: filtros, lugares con fotos y accesos protegidos con huella\n• Estadísticas: 8 reportes nuevos (proyección del mes, tasa de ahorro, comprometido y más)\n• Inicio: \"Entró / Salió / Balance del mes\" por cuenta, con transferencias\n• Tamaño de texto, ocultar saldos al abrir y tipos de cambio en Configuración\n\nTus datos se mantienen: se instala encima."
+  "version": "1.4.1",
+  "build": 11,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.4.1/pigbank.apk",
+  "notes": "Novedades ✨\n• Calendario con tus ingresos, gastos y transferencias (y el neto de cada día)\n• Notas renovadas: listas con progreso, accesos con generador de contraseñas y más colores\n• Lugares: con fotos, estrellas, dirección y link de Google Maps\n• Compartir notas con un toque\n\nTus datos se mantienen: se instala encima."
 }
