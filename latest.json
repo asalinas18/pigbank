@@ -1,6 +1,143 @@
 {
-  "version": "1.4.2",
-  "build": 12,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.4.2/pigbank.apk",
-  "notes": "Novedades ✨\n• Respaldo completo de verdad: ahora incluye las fotos (comprobantes y lugares) y los tipos de cambio, y al restaurar se reprograman los recordatorios y avisos\n• Configuración muestra cuándo hiciste el último respaldo\n• Guía de la app actualizada con todas las funciones nuevas\n• Política de privacidad actualizada\n\nTus datos se mantienen: se instala encima."
+  "version": "1.5.0",
+  "build": 13,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.5.0/pigbank.apk",
+  "notes": "Novedades ✨\n• Tipo de cambio de cada operación: al cambiar dólares guardás el cambio que te dieron ese día (o cuántos dólares llegaron) y queda en ese movimiento\n• Las transferencias con cambio muestran cuántos dólares llegaron y a qué cambio\n• Nueva bienvenida: podés restaurar tu respaldo directo al empezar y elegir si querés recibir avisos\n• El respaldo completo ahora guarda absolutamente todo (todos los módulos y la configuración)\n• Borrar todos los datos deja la app como recién instalada\n• Historial de versiones en Configuración → Novedades, y al actualizar ves todo lo nuevo aunque te hayas salteado versiones\n• Se ve mejor en tablets y en celulares chicos\n• Arreglos: toques que no respondían arriba del chanchito y aportes automáticos a metas que a veces no se hacían\n\nTus datos se mantienen: se instala encima.",
+  "changelog": [
+    {
+      "version": "1.5.0",
+      "build": 13,
+      "fecha": "2026-10-15",
+      "novedades": [
+        "Tipo de cambio de cada operación: al cambiar dólares guardás el cambio que te dieron ese día (o cuántos dólares llegaron) y queda en ese movimiento",
+        "Las transferencias con cambio muestran cuántos dólares llegaron y a qué cambio",
+        "Nueva bienvenida: podés restaurar tu respaldo directo al empezar y elegir si querés recibir avisos",
+        "El respaldo completo ahora guarda absolutamente todo (todos los módulos y la configuración)",
+        "Borrar todos los datos deja la app como recién instalada",
+        "Historial de versiones en Configuración → Novedades, y al actualizar ves todo lo nuevo aunque te hayas salteado versiones",
+        "Se ve mejor en tablets y en celulares chicos",
+        "Arreglos: toques que no respondían arriba del chanchito y aportes automáticos a metas que a veces no se hacían"
+      ]
+    },
+    {
+      "version": "1.4.2",
+      "build": 12,
+      "fecha": "2026-10-14",
+      "novedades": [
+        "Respaldo completo de verdad: ahora incluye las fotos (comprobantes y lugares) y los tipos de cambio",
+        "Al restaurar un respaldo se vuelven a programar los recordatorios y avisos",
+        "Configuración muestra cuándo hiciste el último respaldo",
+        "Guía de la app y política de privacidad actualizadas"
+      ]
+    },
+    {
+      "version": "1.4.1",
+      "build": 11,
+      "fecha": "2026-10-14",
+      "novedades": [
+        "Calendario con tus ingresos, gastos y transferencias (y el neto de cada día)",
+        "Notas renovadas: listas con progreso, accesos con generador de contraseñas y más colores",
+        "Lugares: con fotos, estrellas, dirección y link de Google Maps",
+        "Compartir notas con un toque"
+      ]
+    },
+    {
+      "version": "1.4.0",
+      "build": 10,
+      "fecha": "2026-10-14",
+      "novedades": [
+        "Nueva barra de abajo con el chanchito para registrar desde cualquier pantalla",
+        "Calendario financiero: cuotas, gastos fijos, tarjetas, recordatorios y metas día por día",
+        "Metas: abonar o retirar desde una cuenta, historial de aportes y aporte mensual automático",
+        "Presupuestos: total del mes, pasar el sobrante (opcional), avisos configurables y ver sus gastos",
+        "Cuotas, Gastos fijos y Recordatorios renovados, con avisos antes de cada vencimiento",
+        "Centro de notificaciones en Configuración",
+        "Notas: filtros, lugares con fotos y accesos protegidos con huella",
+        "Estadísticas: 8 reportes nuevos (proyección del mes, tasa de ahorro, comprometido y más)",
+        "Inicio: \"Entró / Salió / Balance del mes\" por cuenta, con transferencias",
+        "Tamaño de texto, ocultar saldos al abrir y tipos de cambio en Configuración"
+      ]
+    },
+    {
+      "version": "1.3.0",
+      "build": 9,
+      "fecha": "2026-10-13",
+      "novedades": [
+        "Monedas: cada cuenta puede estar en guaraníes, dólares, euros u otra moneda, con tipo de cambio automático o manual",
+        "Barra de navegación abajo: Inicio, Cuentas, Estadísticas y Más",
+        "Nuevo formulario de registro, con la hora real del movimiento (y opción de cambiarla)",
+        "Movimientos de la misma categoría en un día se agrupan con su total",
+        "Colores libres para cuentas, categorías y el color de la app",
+        "Estadísticas configurables, sol/luna para cambiar de tema y mejoras en modo claro"
+      ]
+    },
+    {
+      "version": "1.2.4",
+      "build": 8,
+      "fecha": "2026-10-12",
+      "novedades": [
+        "Animación más fluida al deslizar entre cuentas en el inicio",
+        "El fondo de la tarjeta se funde entre los colores de cada cuenta"
+      ]
+    },
+    {
+      "version": "1.2.3",
+      "build": 7,
+      "fecha": "2026-10-12",
+      "novedades": [
+        "Inicio renovado: deslizá la tarjeta para ver cada cuenta",
+        "Buscador y filtros (tipo, período, categorías)",
+        "Días plegables en la lista de movimientos",
+        "Detalle de movimiento en pantalla completa",
+        "Configuración nueva con color de la app a elección",
+        "Colores e íconos unificados, mejor modo claro",
+        "Logo y animación de apertura nuevos",
+        "Se corrigió la alerta de presupuesto que contaba doble"
+      ]
+    },
+    {
+      "version": "1.2.2",
+      "build": 6,
+      "fecha": "2026-10-11",
+      "novedades": [
+        "Nueva firma de la app (esta versión requirió reinstalar con respaldo)",
+        "Desde acá las actualizaciones se instalan encima sin perder datos"
+      ]
+    },
+    {
+      "version": "1.2.1",
+      "build": 5,
+      "fecha": "2026-08-11",
+      "novedades": [
+        "Botones e íconos con color sólido",
+        "Arreglo del selector de tipo y plantillas más compactas"
+      ]
+    },
+    {
+      "version": "1.2.0",
+      "build": 4,
+      "fecha": "2026-08-11",
+      "novedades": [
+        "Rediseño visual: patrimonio, anillos de presupuesto y marca del chanchito",
+        "Formulario de registro renovado y plantillas nuevas"
+      ]
+    },
+    {
+      "version": "1.1.1",
+      "build": 3,
+      "fecha": "2026-08-10",
+      "novedades": [
+        "Actualizaciones desde la app",
+        "Presupuestos con historial mensual"
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "build": 2,
+      "fecha": "2026-08-10",
+      "novedades": [
+        "Primera versión publicada"
+      ]
+    }
+  ]
 }
