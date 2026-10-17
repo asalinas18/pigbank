@@ -1,9 +1,24 @@
 {
-  "version": "1.5.0",
-  "build": 13,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.5.0/pigbank.apk",
-  "notes": "Novedades ✨\n• Tipo de cambio de cada operación: al cambiar dólares guardás el cambio que te dieron ese día (o cuántos dólares llegaron) y queda en ese movimiento\n• Las transferencias con cambio muestran cuántos dólares llegaron y a qué cambio\n• Nueva bienvenida: podés restaurar tu respaldo directo al empezar y elegir si querés recibir avisos\n• El respaldo completo ahora guarda absolutamente todo (todos los módulos y la configuración)\n• Borrar todos los datos deja la app como recién instalada\n• Historial de versiones en Configuración → Novedades, y al actualizar ves todo lo nuevo aunque te hayas salteado versiones\n• Se ve mejor en tablets y en celulares chicos\n• Arreglos: toques que no respondían arriba del chanchito y aportes automáticos a metas que a veces no se hacían\n\nTus datos se mantienen: se instala encima.",
+  "version": "1.6.0",
+  "build": 14,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.6.0/pigbank.apk",
+  "notes": "Novedades ✨\n• Más seguridad: el PIN se vuelve a pedir si saliste de la app (al instante o hasta 1 hora, vos elegís)\n• Después de 5 intentos de PIN equivocados hay que esperar, y cada vez un poco más\n• En apps recientes se ve el logo de PigBank en vez de tus saldos; opción para bloquear capturas de pantalla\n• Respaldo automático semanal en Documentos/PigBank y recordatorio para guardar uno fuera del celular\n• Dólares con coma decimal y punto de miles (US$ 1.234,56)\n• Arreglo: el saldo de las cuentas en dólares ya no se rompe al editar transferencias viejas, y al editar la cuenta te sugiere el saldo correcto\n• Cuotas y gastos fijos: \"Pagar y registrar\" abre el gasto completo y recién se marca pagado al guardarlo\n• En instalaciones nuevas la app arranca en modo claro u oscuro según el celular; ventanitas más prolijas en tablets\n\nTus datos se mantienen: se instala encima.",
   "changelog": [
+    {
+      "version": "1.6.0",
+      "build": 14,
+      "fecha": "2026-10-17",
+      "novedades": [
+        "Más seguridad: el PIN se vuelve a pedir si saliste de la app (al instante o hasta 1 hora, vos elegís)",
+        "Después de 5 intentos de PIN equivocados hay que esperar, y cada vez un poco más",
+        "En apps recientes se ve el logo de PigBank en vez de tus saldos; opción para bloquear capturas de pantalla",
+        "Respaldo automático semanal en Documentos/PigBank y recordatorio para guardar uno fuera del celular",
+        "Dólares con coma decimal y punto de miles (US$ 1.234,56)",
+        "Arreglo: el saldo de las cuentas en dólares ya no se rompe al editar transferencias viejas, y al editar la cuenta te sugiere el saldo correcto",
+        "Cuotas y gastos fijos: \"Pagar y registrar\" abre el gasto completo y recién se marca pagado al guardarlo",
+        "En instalaciones nuevas la app arranca en modo claro u oscuro según el celular; ventanitas más prolijas en tablets"
+      ]
+    },
     {
       "version": "1.5.0",
       "build": 13,
