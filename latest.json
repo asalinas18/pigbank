@@ -1,9 +1,19 @@
 {
-  "version": "1.11.0",
-  "build": 19,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.11.0/pigbank.apk",
-  "notes": "Resumen del mes en PDF desde Estadísticas: totales, categorías, presupuestos, metas, cuentas y deudas para guardar o compartir\nLeer comprobante con foto: al adjuntar el recibo sugiere monto, fecha y comercio (sin internet)\nSi un gasto se repite todos los meses, te ofrece agregarlo a Gastos fijos\nRespaldo con contraseña: opcional al crear el respaldo; se pide al restaurar\nDespués de restaurar un respaldo ya no vuelve a pedir el PIN",
+  "version": "1.11.1",
+  "build": 20,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.11.1/pigbank.apk",
+  "notes": "Deudas: al prestar o devolver se abre el formulario de movimiento ya completo (categoría Préstamos), y elegís la cuenta ahí\nSi cerrás el movimiento sin guardarlo, no se anota nada\nAl eliminar una deuda también se borran sus movimientos y la plata vuelve a tus cuentas",
   "changelog": [
+    {
+      "version": "1.11.1",
+      "build": 20,
+      "fecha": "2026-10-18",
+      "novedades": [
+        "Deudas: al prestar o devolver se abre el formulario de movimiento ya completo (categoría Préstamos), y elegís la cuenta ahí",
+        "Si cerrás el movimiento sin guardarlo, no se anota nada",
+        "Al eliminar una deuda también se borran sus movimientos y la plata vuelve a tus cuentas"
+      ]
+    },
     {
       "version": "1.11.0",
       "build": 19,
