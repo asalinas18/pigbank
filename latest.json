@@ -1,9 +1,20 @@
 {
-  "version": "1.9.0",
-  "build": 17,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.9.0/pigbank.apk",
-  "notes": "Novedades ✨\n• Cuentas en dólares: ves a qué promedio compraste, cuánto vale hoy y si ganaste o perdiste por el cambio\n• Nuevo reporte \"Cambios de moneda\" en Estadísticas con el historial de cada cambio y su tasa\n• Atajos del ícono: mantené apretado PigBank y elegí Gasto, Ingreso o Transferencia\n• Widget para la pantalla de inicio con tu patrimonio, los gastos del mes y botones para cargar (respeta Ocultar saldos y el PIN)\n\nTus datos se mantienen: se instala encima.",
+  "version": "1.10.0",
+  "build": 18,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.10.0/pigbank.apk",
+  "notes": "Novedades ✨\n• Nuevo: Deudas y préstamos (en Más → Deudas): anotá lo que prestás o te prestan, en guaraníes o dólares\n• Pagos parciales con barra de progreso e historial; al completar pasa a Saldadas\n• Si querés, se registra solo el movimiento en la cuenta que elijas (categoría Préstamos)\n• Aviso el día que hay que devolver\n\nTus datos se mantienen: se instala encima.",
   "changelog": [
+    {
+      "version": "1.10.0",
+      "build": 18,
+      "fecha": "2026-10-18",
+      "novedades": [
+        "Nuevo: Deudas y préstamos (en Más → Deudas): anotá lo que prestás o te prestan, en guaraníes o dólares",
+        "Pagos parciales con barra de progreso e historial; al completar pasa a Saldadas",
+        "Si querés, se registra solo el movimiento en la cuenta que elijas (categoría Préstamos)",
+        "Aviso el día que hay que devolver"
+      ]
+    },
     {
       "version": "1.9.0",
       "build": 17,
