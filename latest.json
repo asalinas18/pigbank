@@ -1,9 +1,19 @@
 {
-  "version": "1.12.1",
-  "build": 22,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.12.1/pigbank.apk",
-  "notes": "La app pesa casi la mitad (de 100 MB a unos 56 MB)\nArreglado: \"Lugares y momentos\" aparecía dos veces en el menú lateral",
+  "version": "1.12.2",
+  "build": 23,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.12.2/pigbank.apk",
+  "notes": "Lugares: los links cortos de Google Maps (maps.app.goo.gl) ahora encuentran la ubicación exacta del local\nEl nombre y la dirección del lugar se completan por separado\nSi un lugar guardado tiene link pero no ubicación, al editarlo se busca sola",
   "changelog": [
+    {
+      "version": "1.12.2",
+      "build": 23,
+      "fecha": "2026-10-18",
+      "novedades": [
+        "Lugares: los links cortos de Google Maps (maps.app.goo.gl) ahora encuentran la ubicación exacta del local",
+        "El nombre y la dirección del lugar se completan por separado",
+        "Si un lugar guardado tiene link pero no ubicación, al editarlo se busca sola"
+      ]
+    },
     {
       "version": "1.12.1",
       "build": 22,
