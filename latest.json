@@ -1,9 +1,18 @@
 {
-  "version": "1.12.0",
-  "build": 21,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.12.0/pigbank.apk",
-  "notes": "Nuevo: Lugares y momentos (en Más → Lugares): colecciones, quiero ir, favoritos y \"hace un año\"\nCada visita es un momento con fotos, con quién fuiste, lo que gastaste y opción privada con huella\nCalendario de momentos con la foto de cada día\nMapa con tus lugares: fotos en el mapa, recorrido de donde fueron y pegar un link de Google Maps\nNotas con diseño nuevo: lista compacta por fecha, deslizá para fijar o borrar\nListas: ordená arrastrando, agregá rápido, completadas plegadas, recordarme, pasar a gasto y duplicar\nAccesos: lo que copiás se borra solo del portapapeles a los 30 segundos",
+  "version": "1.12.1",
+  "build": 22,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.12.1/pigbank.apk",
+  "notes": "La app pesa casi la mitad (de 100 MB a unos 56 MB)\nArreglado: \"Lugares y momentos\" aparecía dos veces en el menú lateral",
   "changelog": [
+    {
+      "version": "1.12.1",
+      "build": 22,
+      "fecha": "2026-10-18",
+      "novedades": [
+        "La app pesa casi la mitad (de 100 MB a unos 56 MB)",
+        "Arreglado: \"Lugares y momentos\" aparecía dos veces en el menú lateral"
+      ]
+    },
     {
       "version": "1.12.0",
       "build": 21,
