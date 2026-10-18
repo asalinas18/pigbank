@@ -1,9 +1,20 @@
 {
-  "version": "1.8.0",
-  "build": 16,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.8.0/pigbank.apk",
-  "notes": "Novedades ✨\n• Búsqueda nueva con la lupa del inicio: encuentra movimientos, categorías, cuentas, notas, metas, recordatorios, gastos fijos y cuotas\n• Al abrir la búsqueda: tus búsquedas recientes y acciones rápidas\n• \"Ver todos\" los movimientos encontrados con filtros, total y promedio, agrupados por mes\n• Vuelve la vista de cuentas de antes: patrimonio con tarjetitas de cada cuenta (en Configuración → Personalización)\n• Pantallas vacías renovadas (sin movimientos, sin resultados, sin metas…) con un dibujo y explicación\n\nTus datos se mantienen: se instala encima.",
+  "version": "1.9.0",
+  "build": 17,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.9.0/pigbank.apk",
+  "notes": "Novedades ✨\n• Cuentas en dólares: ves a qué promedio compraste, cuánto vale hoy y si ganaste o perdiste por el cambio\n• Nuevo reporte \"Cambios de moneda\" en Estadísticas con el historial de cada cambio y su tasa\n• Atajos del ícono: mantené apretado PigBank y elegí Gasto, Ingreso o Transferencia\n• Widget para la pantalla de inicio con tu patrimonio, los gastos del mes y botones para cargar (respeta Ocultar saldos y el PIN)\n\nTus datos se mantienen: se instala encima.",
   "changelog": [
+    {
+      "version": "1.9.0",
+      "build": 17,
+      "fecha": "2026-10-18",
+      "novedades": [
+        "Cuentas en dólares: ves a qué promedio compraste, cuánto vale hoy y si ganaste o perdiste por el cambio",
+        "Nuevo reporte \"Cambios de moneda\" en Estadísticas con el historial de cada cambio y su tasa",
+        "Atajos del ícono: mantené apretado PigBank y elegí Gasto, Ingreso o Transferencia",
+        "Widget para la pantalla de inicio con tu patrimonio, los gastos del mes y botones para cargar (respeta Ocultar saldos y el PIN)"
+      ]
+    },
     {
       "version": "1.8.0",
       "build": 16,
