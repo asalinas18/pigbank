@@ -1,9 +1,21 @@
 {
-  "version": "1.10.0",
-  "build": 18,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.10.0/pigbank.apk",
-  "notes": "Novedades ✨\n• Nuevo: Deudas y préstamos (en Más → Deudas): anotá lo que prestás o te prestan, en guaraníes o dólares\n• Pagos parciales con barra de progreso e historial; al completar pasa a Saldadas\n• Si querés, se registra solo el movimiento en la cuenta que elijas (categoría Préstamos)\n• Aviso el día que hay que devolver\n\nTus datos se mantienen: se instala encima.",
+  "version": "1.11.0",
+  "build": 19,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.11.0/pigbank.apk",
+  "notes": "Resumen del mes en PDF desde Estadísticas: totales, categorías, presupuestos, metas, cuentas y deudas para guardar o compartir\nLeer comprobante con foto: al adjuntar el recibo sugiere monto, fecha y comercio (sin internet)\nSi un gasto se repite todos los meses, te ofrece agregarlo a Gastos fijos\nRespaldo con contraseña: opcional al crear el respaldo; se pide al restaurar\nDespués de restaurar un respaldo ya no vuelve a pedir el PIN",
   "changelog": [
+    {
+      "version": "1.11.0",
+      "build": 19,
+      "fecha": "2026-10-18",
+      "novedades": [
+        "Resumen del mes en PDF desde Estadísticas: totales, categorías, presupuestos, metas, cuentas y deudas para guardar o compartir",
+        "Leer comprobante con foto: al adjuntar el recibo sugiere monto, fecha y comercio (sin internet)",
+        "Si un gasto se repite todos los meses, te ofrece agregarlo a Gastos fijos",
+        "Respaldo con contraseña: opcional al crear el respaldo; se pide al restaurar",
+        "Después de restaurar un respaldo ya no vuelve a pedir el PIN"
+      ]
+    },
     {
       "version": "1.10.0",
       "build": 18,
