@@ -1,9 +1,20 @@
 {
-  "version": "1.12.2",
-  "build": 23,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.12.2/pigbank.apk",
-  "notes": "Lugares: los links cortos de Google Maps (maps.app.goo.gl) ahora encuentran la ubicación exacta del local\nEl nombre y la dirección del lugar se completan por separado\nSi un lugar guardado tiene link pero no ubicación, al editarlo se busca sola",
+  "version": "1.12.3",
+  "build": 24,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.12.3/pigbank.apk",
+  "notes": "Estadísticas → Cambios: \"¿Cuánto me dan hoy?\" — poné el cambio de hoy y cuántos dólares cambiás, y te dice cuánto recibirías y si ganás o perdés\nPodés usar ese cambio en toda la app con un toque\nMapa: al tocar un lugar ves todas sus fotos deslizando, y el círculo del mapa muestra la que estás mirando\nEl recorrido del mapa ahora une todos los lugares donde ya fuiste",
   "changelog": [
+    {
+      "version": "1.12.3",
+      "build": 24,
+      "fecha": "2026-10-18",
+      "novedades": [
+        "Estadísticas → Cambios: \"¿Cuánto me dan hoy?\" — poné el cambio de hoy y cuántos dólares cambiás, y te dice cuánto recibirías y si ganás o perdés",
+        "Podés usar ese cambio en toda la app con un toque",
+        "Mapa: al tocar un lugar ves todas sus fotos deslizando, y el círculo del mapa muestra la que estás mirando",
+        "El recorrido del mapa ahora une todos los lugares donde ya fuiste"
+      ]
+    },
     {
       "version": "1.12.2",
       "build": 23,
