@@ -1,9 +1,21 @@
 {
-  "version": "1.12.3",
-  "build": 24,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.12.3/pigbank.apk",
-  "notes": "Estadísticas → Cambios: \"¿Cuánto me dan hoy?\" — poné el cambio de hoy y cuántos dólares cambiás, y te dice cuánto recibirías y si ganás o perdés\nPodés usar ese cambio en toda la app con un toque\nMapa: al tocar un lugar ves todas sus fotos deslizando, y el círculo del mapa muestra la que estás mirando\nEl recorrido del mapa ahora une todos los lugares donde ya fuiste",
+  "version": "1.13.0",
+  "build": 25,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.13.0/pigbank.apk",
+  "notes": "Si tu moneda principal es dólar, euro, real o peso: centavos en presupuestos, cuotas, gastos fijos, metas y todos los montos\nAl pagar un gasto fijo o una cuota se mantienen los centavos\nEl tipo de cambio siempre se lee fácil (por ejemplo, 1 USD = 5.705 GS)\nRespaldo y restauración revisados: vuelven todos los módulos, también deudas, lugares y momentos\nSe quitó \"Importar CSV del banco\"",
   "changelog": [
+    {
+      "version": "1.13.0",
+      "build": 25,
+      "fecha": "2026-10-18",
+      "novedades": [
+        "Si tu moneda principal es dólar, euro, real o peso: centavos en presupuestos, cuotas, gastos fijos, metas y todos los montos",
+        "Al pagar un gasto fijo o una cuota se mantienen los centavos",
+        "El tipo de cambio siempre se lee fácil (por ejemplo, 1 USD = 5.705 GS)",
+        "Respaldo y restauración revisados: vuelven todos los módulos, también deudas, lugares y momentos",
+        "Se quitó \"Importar CSV del banco\""
+      ]
+    },
     {
       "version": "1.12.3",
       "build": 24,
