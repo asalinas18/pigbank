@@ -1,9 +1,21 @@
 {
-  "version": "1.7.0",
-  "build": 15,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.7.0/pigbank.apk",
-  "notes": "Novedades ✨\n• Nueva sección Personalización en Configuración: elegí cómo se ve la app a tu gusto\n• Menú del chanchito: abanico (nuevo), píldora, hoja con tarjetas o lista; y el chanchito salta y suelta una moneda al tocarlo\n• Aviso al guardar, editar o eliminar con Deshacer: tarjeta con detalle, aviso con el saldo que te queda, sello, simple o sin aviso\n• Elegir categoría renovado en todos lados: buscador, las que más usás, grupos con color y crear una nueva desde la búsqueda (también en lista, recientes o dos paneles)\n• Cuentas en el inicio: tarjeta deslizable con onda de color, carrusel, billetera apilada o patrimonio con tus cuentas\n• Los avisos de abajo ya no tapan el chanchito\n\nTus datos se mantienen: se instala encima.",
+  "version": "1.8.0",
+  "build": 16,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.8.0/pigbank.apk",
+  "notes": "Novedades ✨\n• Búsqueda nueva con la lupa del inicio: encuentra movimientos, categorías, cuentas, notas, metas, recordatorios, gastos fijos y cuotas\n• Al abrir la búsqueda: tus búsquedas recientes y acciones rápidas\n• \"Ver todos\" los movimientos encontrados con filtros, total y promedio, agrupados por mes\n• Vuelve la vista de cuentas de antes: patrimonio con tarjetitas de cada cuenta (en Configuración → Personalización)\n• Pantallas vacías renovadas (sin movimientos, sin resultados, sin metas…) con un dibujo y explicación\n\nTus datos se mantienen: se instala encima.",
   "changelog": [
+    {
+      "version": "1.8.0",
+      "build": 16,
+      "fecha": "2026-10-18",
+      "novedades": [
+        "Búsqueda nueva con la lupa del inicio: encuentra movimientos, categorías, cuentas, notas, metas, recordatorios, gastos fijos y cuotas",
+        "Al abrir la búsqueda: tus búsquedas recientes y acciones rápidas",
+        "\"Ver todos\" los movimientos encontrados con filtros, total y promedio, agrupados por mes",
+        "Vuelve la vista de cuentas de antes: patrimonio con tarjetitas de cada cuenta (en Configuración → Personalización)",
+        "Pantallas vacías renovadas (sin movimientos, sin resultados, sin metas…) con un dibujo y explicación"
+      ]
+    },
     {
       "version": "1.7.0",
       "build": 15,
