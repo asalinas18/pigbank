@@ -1,9 +1,22 @@
 {
-  "version": "1.6.0",
-  "build": 14,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.6.0/pigbank.apk",
-  "notes": "Novedades ✨\n• Más seguridad: el PIN se vuelve a pedir si saliste de la app (al instante o hasta 1 hora, vos elegís)\n• Después de 5 intentos de PIN equivocados hay que esperar, y cada vez un poco más\n• En apps recientes se ve el logo de PigBank en vez de tus saldos; opción para bloquear capturas de pantalla\n• Respaldo automático semanal en Documentos/PigBank y recordatorio para guardar uno fuera del celular\n• Dólares con coma decimal y punto de miles (US$ 1.234,56)\n• Arreglo: el saldo de las cuentas en dólares ya no se rompe al editar transferencias viejas, y al editar la cuenta te sugiere el saldo correcto\n• Cuotas y gastos fijos: \"Pagar y registrar\" abre el gasto completo y recién se marca pagado al guardarlo\n• En instalaciones nuevas la app arranca en modo claro u oscuro según el celular; ventanitas más prolijas en tablets\n\nTus datos se mantienen: se instala encima.",
+  "version": "1.7.0",
+  "build": 15,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.7.0/pigbank.apk",
+  "notes": "Novedades ✨\n• Nueva sección Personalización en Configuración: elegí cómo se ve la app a tu gusto\n• Menú del chanchito: abanico (nuevo), píldora, hoja con tarjetas o lista; y el chanchito salta y suelta una moneda al tocarlo\n• Aviso al guardar, editar o eliminar con Deshacer: tarjeta con detalle, aviso con el saldo que te queda, sello, simple o sin aviso\n• Elegir categoría renovado en todos lados: buscador, las que más usás, grupos con color y crear una nueva desde la búsqueda (también en lista, recientes o dos paneles)\n• Cuentas en el inicio: tarjeta deslizable con onda de color, carrusel, billetera apilada o patrimonio con tus cuentas\n• Los avisos de abajo ya no tapan el chanchito\n\nTus datos se mantienen: se instala encima.",
   "changelog": [
+    {
+      "version": "1.7.0",
+      "build": 15,
+      "fecha": "2026-10-18",
+      "novedades": [
+        "Nueva sección Personalización en Configuración: elegí cómo se ve la app a tu gusto",
+        "Menú del chanchito: abanico (nuevo), píldora, hoja con tarjetas o lista; y el chanchito salta y suelta una moneda al tocarlo",
+        "Aviso al guardar, editar o eliminar con Deshacer: tarjeta con detalle, aviso con el saldo que te queda, sello, simple o sin aviso",
+        "Elegir categoría renovado en todos lados: buscador, las que más usás, grupos con color y crear una nueva desde la búsqueda (también en lista, recientes o dos paneles)",
+        "Cuentas en el inicio: tarjeta deslizable con onda de color, carrusel, billetera apilada o patrimonio con tus cuentas",
+        "Los avisos de abajo ya no tapan el chanchito"
+      ]
+    },
     {
       "version": "1.6.0",
       "build": 14,
