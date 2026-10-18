@@ -1,9 +1,19 @@
 {
-  "version": "1.13.0",
-  "build": 25,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.13.0/pigbank.apk",
-  "notes": "Si tu moneda principal es dólar, euro, real o peso: centavos en presupuestos, cuotas, gastos fijos, metas y todos los montos\nAl pagar un gasto fijo o una cuota se mantienen los centavos\nEl tipo de cambio siempre se lee fácil (por ejemplo, 1 USD = 5.705 GS)\nRespaldo y restauración revisados: vuelven todos los módulos, también deudas, lugares y momentos\nSe quitó \"Importar CSV del banco\"",
+  "version": "1.13.1",
+  "build": 26,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.13.1/pigbank.apk",
+  "notes": "Arreglado: la hora de los avisos ahora guarda los minutos (por ejemplo 21:50)\nTu PIN se guarda de forma mucho más segura (no tenés que cambiar nada)\nNuevo en Configuración: cifrar con contraseña los respaldos automáticos; al activarlo se borran los anteriores sin cifrar",
   "changelog": [
+    {
+      "version": "1.13.1",
+      "build": 26,
+      "fecha": "2026-10-18",
+      "novedades": [
+        "Arreglado: la hora de los avisos ahora guarda los minutos (por ejemplo 21:50)",
+        "Tu PIN se guarda de forma mucho más segura (no tenés que cambiar nada)",
+        "Nuevo en Configuración: cifrar con contraseña los respaldos automáticos; al activarlo se borran los anteriores sin cifrar"
+      ]
+    },
     {
       "version": "1.13.0",
       "build": 25,
