@@ -1,9 +1,29 @@
 {
-  "version": "1.13.1",
-  "build": 26,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.13.1/pigbank.apk",
-  "notes": "Arreglado: la hora de los avisos ahora guarda los minutos (por ejemplo 21:50)\nTu PIN se guarda de forma mucho más segura (no tenés que cambiar nada)\nNuevo en Configuración: cifrar con contraseña los respaldos automáticos; al activarlo se borran los anteriores sin cifrar",
+  "version": "1.13.3",
+  "build": 28,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.13.3/pigbank.apk",
+  "notes": "PigBank Pro: al comprarlo o restaurarlo aparece una pantalla de festejo con todo lo que se desbloqueó\n\"Ya lo compré: restaurar compra\" ahora te avisa si encontró la compra o si no hay ninguna en tu cuenta de Google\nSi ya sos Pro, tocar PigBank Pro en Configuración te muestra lo que tenés desbloqueado\nAl buscar en el inicio, el buscador sube y los resultados ya no quedan tapados por el teclado\nLa sugerencia de gasto fijo aparece mucho menos: solo para gastos que se repiten una vez por mes, y podés apagarla\nMejoras internas para la versión de Google Play",
   "changelog": [
+    {
+      "version": "1.13.3",
+      "build": 28,
+      "fecha": "2026-10-22",
+      "novedades": [
+        "PigBank Pro: al comprarlo o restaurarlo aparece una pantalla de festejo con todo lo que se desbloqueó",
+        "\"Ya lo compré: restaurar compra\" ahora te avisa si encontró la compra o si no hay ninguna en tu cuenta de Google",
+        "Si ya sos Pro, tocar PigBank Pro en Configuración te muestra lo que tenés desbloqueado"
+      ]
+    },
+    {
+      "version": "1.13.2",
+      "build": 27,
+      "fecha": "2026-10-20",
+      "novedades": [
+        "Al buscar en el inicio, el buscador sube y los resultados ya no quedan tapados por el teclado",
+        "La sugerencia de gasto fijo aparece mucho menos: solo para gastos que se repiten una vez por mes, y podés apagarla",
+        "Mejoras internas para la versión de Google Play"
+      ]
+    },
     {
       "version": "1.13.1",
       "build": 26,
