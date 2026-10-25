@@ -1,9 +1,18 @@
 {
-  "version": "1.13.3",
-  "build": 28,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.13.3/pigbank.apk",
-  "notes": "PigBank Pro: al comprarlo o restaurarlo aparece una pantalla de festejo con todo lo que se desbloqueó\n\"Ya lo compré: restaurar compra\" ahora te avisa si encontró la compra o si no hay ninguna en tu cuenta de Google\nSi ya sos Pro, tocar PigBank Pro en Configuración te muestra lo que tenés desbloqueado\nAl buscar en el inicio, el buscador sube y los resultados ya no quedan tapados por el teclado\nLa sugerencia de gasto fijo aparece mucho menos: solo para gastos que se repiten una vez por mes, y podés apagarla\nMejoras internas para la versión de Google Play",
+  "version": "1.13.4",
+  "build": 29,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.13.4/pigbank.apk",
+  "notes": "Notas → Accesos: si ya hay una contraseña, \"Generar\" te pregunta antes de reemplazarla\nDespués de generar una contraseña nueva podés tocar \"Deshacer\" para recuperar la anterior",
   "changelog": [
+    {
+      "version": "1.13.4",
+      "build": 29,
+      "fecha": "2026-10-25",
+      "novedades": [
+        "Notas → Accesos: si ya hay una contraseña, \"Generar\" te pregunta antes de reemplazarla",
+        "Después de generar una contraseña nueva podés tocar \"Deshacer\" para recuperar la anterior"
+      ]
+    },
     {
       "version": "1.13.3",
       "build": 28,
