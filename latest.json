@@ -1,9 +1,20 @@
 {
-  "version": "1.13.4",
-  "build": 29,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.13.4/pigbank.apk",
-  "notes": "Notas → Accesos: si ya hay una contraseña, \"Generar\" te pregunta antes de reemplazarla\nDespués de generar una contraseña nueva podés tocar \"Deshacer\" para recuperar la anterior",
+  "version": "1.14.0",
+  "build": 30,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.14.0/pigbank.apk",
+  "notes": "28 monedas: todas las de Latinoamérica y las más usadas de Europa, con su bandera\nAl elegir la moneda de una cuenta: tus favoritas arriba y \"Más monedas\" con la lista en orden alfabético y buscador por moneda, código o país\nCambiar la moneda principal ya no rompe nada: te muestra el cambio del día y convierte totales, presupuestos, metas, cuotas y gastos fijos\nPodés mantener tus cuentas en la moneda anterior o pasarlas a la nueva con sus movimientos",
   "changelog": [
+    {
+      "version": "1.14.0",
+      "build": 30,
+      "fecha": "2026-10-28",
+      "novedades": [
+        "28 monedas: todas las de Latinoamérica y las más usadas de Europa, con su bandera",
+        "Al elegir la moneda de una cuenta: tus favoritas arriba y \"Más monedas\" con la lista en orden alfabético y buscador por moneda, código o país",
+        "Cambiar la moneda principal ya no rompe nada: te muestra el cambio del día y convierte totales, presupuestos, metas, cuotas y gastos fijos",
+        "Podés mantener tus cuentas en la moneda anterior o pasarlas a la nueva con sus movimientos"
+      ]
+    },
     {
       "version": "1.13.4",
       "build": 29,
