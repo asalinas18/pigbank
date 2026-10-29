@@ -1,9 +1,21 @@
 {
-  "version": "1.14.0",
-  "build": 30,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.14.0/pigbank.apk",
-  "notes": "28 monedas: todas las de Latinoamérica y las más usadas de Europa, con su bandera\nAl elegir la moneda de una cuenta: tus favoritas arriba y \"Más monedas\" con la lista en orden alfabético y buscador por moneda, código o país\nCambiar la moneda principal ya no rompe nada: te muestra el cambio del día y convierte totales, presupuestos, metas, cuotas y gastos fijos\nPodés mantener tus cuentas en la moneda anterior o pasarlas a la nueva con sus movimientos",
+  "version": "1.14.1",
+  "build": 31,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.14.1/pigbank.apk",
+  "notes": "Animaciones nuevas: las pantallas entran con una transición suave y tu saldo se actualiza recorriendo los números\nFestejos cuando cumplís una meta, terminás de pagar una compra en cuotas o saldás una deuda\nConfiguración → Tipos de cambio: ahora se desliza, con tus monedas primero, banderas y buscador\nEl resumen del mes de las notificaciones ahora coincide con Estadísticas (descuenta los reintegros)\nMetas: \"Completar\" deja abonar el monto justo que falta",
   "changelog": [
+    {
+      "version": "1.14.1",
+      "build": 31,
+      "fecha": "2026-10-29",
+      "novedades": [
+        "Animaciones nuevas: las pantallas entran con una transición suave y tu saldo se actualiza recorriendo los números",
+        "Festejos cuando cumplís una meta, terminás de pagar una compra en cuotas o saldás una deuda",
+        "Configuración → Tipos de cambio: ahora se desliza, con tus monedas primero, banderas y buscador",
+        "El resumen del mes de las notificaciones ahora coincide con Estadísticas (descuenta los reintegros)",
+        "Metas: \"Completar\" deja abonar el monto justo que falta"
+      ]
+    },
     {
       "version": "1.14.0",
       "build": 30,
@@ -11,7 +23,7 @@
       "novedades": [
         "28 monedas: todas las de Latinoamérica y las más usadas de Europa, con su bandera",
         "Al elegir la moneda de una cuenta: tus favoritas arriba y \"Más monedas\" con la lista en orden alfabético y buscador por moneda, código o país",
-        "Cambiar la moneda principal ya no rompe nada: te muestra el cambio del día y convierte totales, presupuestos, metas, cuotas y gastos fijos",
+        "Al cambiar la moneda principal te mostramos el cambio del día y pasamos tus totales, presupuestos, metas, cuotas y gastos fijos a la moneda nueva",
         "Podés mantener tus cuentas en la moneda anterior o pasarlas a la nueva con sus movimientos"
       ]
     },
@@ -189,7 +201,7 @@
         "En apps recientes se ve el logo de PigBank en vez de tus saldos; opción para bloquear capturas de pantalla",
         "Respaldo automático semanal en Documentos/PigBank y recordatorio para guardar uno fuera del celular",
         "Dólares con coma decimal y punto de miles (US$ 1.234,56)",
-        "Arreglo: el saldo de las cuentas en dólares ya no se rompe al editar transferencias viejas, y al editar la cuenta te sugiere el saldo correcto",
+        "Mejora: el saldo de las cuentas en dólares se mantiene correcto al editar transferencias viejas, y al editar la cuenta te sugiere el saldo correcto",
         "Cuotas y gastos fijos: \"Pagar y registrar\" abre el gasto completo y recién se marca pagado al guardarlo",
         "En instalaciones nuevas la app arranca en modo claro u oscuro según el celular; ventanitas más prolijas en tablets"
       ]
@@ -291,7 +303,7 @@
       "fecha": "2026-10-11",
       "novedades": [
         "Nueva firma de la app (esta versión requirió reinstalar con respaldo)",
-        "Desde acá las actualizaciones se instalan encima sin perder datos"
+        "Desde acá las actualizaciones se instalan encima y conservan todos tus datos"
       ]
     },
     {
