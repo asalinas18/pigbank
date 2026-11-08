@@ -1,9 +1,18 @@
 {
-  "version": "1.14.1",
-  "build": 31,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.14.1/pigbank.apk",
-  "notes": "Animaciones nuevas: las pantallas entran con una transición suave y tu saldo se actualiza recorriendo los números\nFestejos cuando cumplís una meta, terminás de pagar una compra en cuotas o saldás una deuda\nConfiguración → Tipos de cambio: ahora se desliza, con tus monedas primero, banderas y buscador\nEl resumen del mes de las notificaciones ahora coincide con Estadísticas (descuenta los reintegros)\nMetas: \"Completar\" deja abonar el monto justo que falta",
+  "version": "1.14.2",
+  "build": 32,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.14.2/pigbank.apk",
+  "notes": "Más privacidad: tus datos solo salen del teléfono si vos creás y compartís un respaldo\nPolítica de privacidad actualizada",
   "changelog": [
+    {
+      "version": "1.14.2",
+      "build": 32,
+      "fecha": "2026-11-08",
+      "novedades": [
+        "Más privacidad: tus datos solo salen del teléfono si vos creás y compartís un respaldo",
+        "Política de privacidad actualizada"
+      ]
+    },
     {
       "version": "1.14.1",
       "build": 31,
