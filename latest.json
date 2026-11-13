@@ -1,9 +1,21 @@
 {
-  "version": "1.14.2",
-  "build": 32,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.14.2/pigbank.apk",
-  "notes": "Más privacidad: tus datos solo salen del teléfono si vos creás y compartís un respaldo\nPolítica de privacidad actualizada",
+  "version": "1.15.0",
+  "build": 33,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.15.0/pigbank.apk",
+  "notes": "Cuentas cerradas: guardá una cuenta que ya no usás con todos sus movimientos, pasá su saldo con una transferencia (también en dólares) y reabrila cuando quieras\nNúmero de cuenta y alias (CI, celular, correo o RUC) en tus cuentas bancarias, con Copiar y Compartir\nNotas con varios renglones y viñetas, con su propia tarjeta en el detalle del movimiento\nMonto más cómodo: tocá un número para corregirlo y movete por la pantalla con el teclado abierto\nLos avisos con Deshacer se van solos y la app se ve de borde a borde en Android nuevos",
   "changelog": [
+    {
+      "version": "1.15.0",
+      "build": 33,
+      "fecha": "2026-11-13",
+      "novedades": [
+        "Cuentas cerradas: guardá una cuenta que ya no usás con todos sus movimientos, pasá su saldo con una transferencia (también en dólares) y reabrila cuando quieras",
+        "Número de cuenta y alias (CI, celular, correo o RUC) en tus cuentas bancarias, con Copiar y Compartir",
+        "Notas con varios renglones y viñetas, con su propia tarjeta en el detalle del movimiento",
+        "Monto más cómodo: tocá un número para corregirlo y movete por la pantalla con el teclado abierto",
+        "Los avisos con Deshacer se van solos y la app se ve de borde a borde en Android nuevos"
+      ]
+    },
     {
       "version": "1.14.2",
       "build": 32,
