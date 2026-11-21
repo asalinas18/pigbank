@@ -1,9 +1,18 @@
 {
-  "version": "1.15.0",
-  "build": 33,
-  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.15.0/pigbank.apk",
-  "notes": "Cuentas cerradas: guardá una cuenta que ya no usás con todos sus movimientos, pasá su saldo con una transferencia (también en dólares) y reabrila cuando quieras\nNúmero de cuenta y alias (CI, celular, correo o RUC) en tus cuentas bancarias, con Copiar y Compartir\nNotas con varios renglones y viñetas, con su propia tarjeta en el detalle del movimiento\nMonto más cómodo: tocá un número para corregirlo y movete por la pantalla con el teclado abierto\nLos avisos con Deshacer se van solos y la app se ve de borde a borde en Android nuevos",
+  "version": "1.15.1",
+  "build": 34,
+  "apkUrl": "https://github.com/asalinas18/pigbank/releases/download/v1.15.1/pigbank.apk",
+  "notes": "Restaurar respaldo ahora te deja elegir: sumar lo que falta (lo que ya cargaste y tus saldos quedan igual) o reemplazar todo\nPréstamos: elegís entre la moneda principal y las monedas que tenés en tus cuentas",
   "changelog": [
+    {
+      "version": "1.15.1",
+      "build": 34,
+      "fecha": "2026-11-20",
+      "novedades": [
+        "Restaurar respaldo ahora te deja elegir: sumar lo que falta (lo que ya cargaste y tus saldos quedan igual) o reemplazar todo",
+        "Préstamos: elegís entre la moneda principal y las monedas que tenés en tus cuentas"
+      ]
+    },
     {
       "version": "1.15.0",
       "build": 33,
